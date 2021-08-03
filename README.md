@@ -1,0 +1,1 @@
+# adapt-varestplugin-ue4.26
